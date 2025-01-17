@@ -1,40 +1,22 @@
-# Template for setting up reproducible projects
+#  Computational Modelling of Real World Problems Using DRI and Community Outreach - EDIA Champions 2024
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
-
 ## About this Repository
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+This repository contains documents, codes, presentations, and all other related works done towards the project " Computational Modelling of Real World Problems using DRI and Community Outreach". This project is done as part of the EDIA-Champions Pilot Program 2024. 
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+Below you can see the open canvas which details the project plan.
+
+
+![sudhi_canvas](https://github.com/user-attachments/assets/4e8a8552-737d-4b7c-984c-a2a6c319cc21)
+
+
 
 ### Using this Repository
 
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
 
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
 
 ```
 # Project Quick Start
@@ -89,8 +71,6 @@ Clearly define the license under which the repository's work is shared.
 
 ## Repo Structure
 
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
-
 ```
 ├── LICENSE
 ├── README.md          <- The top-level README for users of this project.
@@ -126,13 +106,15 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
 │       └── visualise.py
 └──
+
+Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 ```
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
+This repository has been set up and maintained by Sudhi Sharma to support and improve open science practices. 
 
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
+As an open source repository, anyone beyond these teams is very welcome to reuse and contribute to this repository as per the license.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
@@ -162,7 +144,7 @@ As an open source repository, anyone beyond these teams is very welcome to reuse
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any organisation-related queries or concerns, you can directly reach out to Sudhi Sharma Padillath Vasudevan by emailing [sudhisharmapadillath@gmail.com](mailto:sudhisharmapadillath@gmail.com).
 
 ♻️ License
 ---
@@ -180,27 +162,7 @@ This repository has been created for anyone to reuse -- please attribute us as:
 > This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+Sudhi Sharma Padillath Vasudevan : sudhipv
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
