@@ -13,31 +13,35 @@ Below you can see the open canvas which details the project plan.
 ![sudhi_canvas](https://github.com/user-attachments/assets/4e8a8552-737d-4b7c-984c-a2a6c319cc21)
 
 
-
-### Using this Repository
-
-
-
 ```
 # Project Quick Start
 
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
-
-*A sentence summarising what to expect from this repository*  
-
 ## Vision and Mission
 
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
+- **Vision:** 
+   - Develop state-of-the-art AI tools for the health sector utilizing DRI resources.
+      
+   - Be an educator and leader in science communication.
 
-## About
+- **Mission:** 
+   1. Advancements in the technical aspects of the project by enrolling in the latest technological
+      courses fromreputed universities/organizations, interacting with leaders in the research and
+      progressing with feedback from mentors.
 
-Motivation and background in a nutshell.
+   2. Gain leadership qualities and educate the general public by conducting webinars and
+      in-person meetings with student researchers from the university. Further, significant
+       outreach to the general audience using social media, YouTube etc.
+
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- **Goals:**
+   Conduct webinars and in-person sessions on creating awareness on DRI resources to students and other researchers.
+   Create a social media outreach workflow and promote excellent research including the ones which utilizes DRI resources.
+
+- **Outcomes:**
+   Feedback forms collected from participants.
+   Likes, comments and shares in social media platforms.
 
 ## The Team
 
@@ -78,9 +82,7 @@ Clearly define the license under which the repository's work is shared.
 ├── README.md          <- The top-level README for users of this project.
 ├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
 ├── CONTRIBUTING.md    <- Information on how to contribute to the project.
-├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+├──          
 │
 ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
 │
@@ -96,17 +98,7 @@ Clearly define the license under which the repository's work is shared.
 ├── project_management <- Meeting notes and other project planning resources
 │
 ├── src                <- Source code for use in this project.
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
-│       └── visualise.py
+│  
 └──
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
