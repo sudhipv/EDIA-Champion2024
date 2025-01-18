@@ -84,22 +84,13 @@ Clearly define the license under which the repository's work is shared.
 ├── CONTRIBUTING.md    <- Information on how to contribute to the project.
 ├──          
 │
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+├── OLS-Assignments    <- Assignments done as part of OLS training program
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
+├── OLS-graduation     <- Graduation presentation for OLS
 │
-├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── OLS-presentations  <- All the presentations conducted by OLS for the training
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── project_management <- Meeting notes and other project planning resources
-│
-├── src                <- Source code for use in this project.
-│  
-└──
+├── Webinars            <- Webinars conducted by Sudhi Sharma, presentations and feedback collected.
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 ```
