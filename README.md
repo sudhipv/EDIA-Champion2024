@@ -67,7 +67,9 @@ Below you can see the open canvas which details the project plan.
 │
 ├── OLS-presentations  <- All the presentations conducted by OLS for the training
 │
-├── Webinars            <- Webinars conducted by Sudhi Sharma, presentations and feedback collected.
+├── Webinars            <- Webinars conducted by Sudhi Sharma at Western University, presentations and feedback collected.
+│
+├── Hands-On          <- Codes and presentations used for the Hands-On session conducted by Sudhi Sharma at Carleton University, presentations and feedback collected.
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 ```
