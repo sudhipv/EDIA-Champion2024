@@ -24,15 +24,14 @@ This repository contains documents, codes, presentations, and all other related 
        outreach to the general audience using social media, YouTube etc.
 
 
-Below you can see the open canvas which details the project plan.
-
-
-![sudhi_canvas](https://github.com/user-attachments/assets/4e8a8552-737d-4b7c-984c-a2a6c319cc21)
-
-
 ## ✨ Milestones
 
-🥇 Conducted a webinar to fellow researchers from University of Western Ontario and Carleton on DRAC resources and collected their feedback
+🥇 Conducted a webinar to fellow researchers from University of Western Ontario on DRAC resources and collected their feedback. This is added inside the folder named Webinar.
+
+
+🥇 Conducted a hands-on session to fellow researchers from Carleton University showcasing an introductory course to high performance computing. The codes used for this session is available inside the folder Hands-on.
+
+🥇 Conducted a one-to-one online intrview with "Artur Estrela da Silva", Vice President, Student Issues, Carleton University Students Association. The details of the interview are provided in the folder named interview.
 
 
 👣 Roadmap
