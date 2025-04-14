@@ -16,7 +16,7 @@ This repository contains documents, codes, presentations, and all other related 
 
 - **Mission:** 
   -   Advancements in the technical aspects of the project by enrolling in the latest technological
-      courses fromreputed universities/organizations, interacting with leaders in the research and
+      courses from reputed universities/organizations, interacting with leaders in the research and
       progressing with feedback from mentors.
 
   -   Gain leadership qualities and educate the general public by conducting webinars and
@@ -69,6 +69,7 @@ This repository contains documents, codes, presentations, and all other related 
 ├── Webinars            <- Webinars conducted by Sudhi Sharma at Western University, presentations and feedback collected.
 │
 ├── Hands-On          <- Codes and presentations used for the Hands-On session conducted by Sudhi Sharma at Carleton University, presentations and feedback collected.
+├── Interview          <- A one-on-one online interview conducted with "Artur Estrela da Silva", Vice President, Student Issues, Carleton University Students Association. 
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
 ```
